@@ -159,13 +159,8 @@ aws-bedrock-enterprise-knowledge-assistant
 │   ├── sales-details.csv
 │   └── sales-report.pdf
 │
-└── screenshots
-    ├── 01-s3-bucket.png
-    ├── 02-bedrock-model-enabled.png
-    ├── 03-knowledge-base-created.png
-    ├── 04-opensearch-vector-store.png
-    ├── 05-data-source-sync.png
-    └── 06-query-test.png
+└── screenshot
+    
 
 
 ⚙ Implementation Steps
